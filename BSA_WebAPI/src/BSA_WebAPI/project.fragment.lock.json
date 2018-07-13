@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "exports": {
+    "BusinessLigic/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/BusinessLigic.dll": {}
+      },
+      "runtime": {
+        "../packages/AutoMapper.7.0.1/lib/net45/AutoMapper.dll": {},
+        "../packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll": {},
+        "bin/Debug/BusinessLigic.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/BusinessLigic.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/DAL.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/DAL.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/DAL.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Shared.dll": {}
+      },
+      "runtime": {
+        "../packages/AutoMapper.7.0.1/lib/net45/AutoMapper.dll": {},
+        "../packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll": {},
+        "bin/Debug/Shared.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Shared.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}

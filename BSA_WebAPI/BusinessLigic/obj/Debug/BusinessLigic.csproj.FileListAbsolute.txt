@@ -1,0 +1,14 @@
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\BusinessLigic.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\BusinessLigic.pdb
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\DAL.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\DAL.pdb
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\obj\Debug\BusinessLigic.csprojResolveAssemblyReference.cache
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\obj\Debug\BusinessLigic.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\obj\Debug\BusinessLigic.pdb
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\Shared.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\Shared.pdb
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\AutoMapper.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\System.ValueTuple.dll
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\AutoMapper.pdb
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\AutoMapper.xml
+C:\Users\zhere\OneDrive\Документи\Visual Studio 2015\Projects\BSA_WebAPI\BusinessLigic\bin\Debug\System.ValueTuple.xml
